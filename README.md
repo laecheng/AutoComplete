@@ -16,6 +16,6 @@ $ git clone git@github.com:laecheng/AutoComplete .
 ```
 
 # License
-AutoComplete is Copyright © 2017-2018 chaoran cheng. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/laecheng/AutoComplete/blob/master/LICENSE) file.
+  - AutoComplete is Copyright © 2017-2018 chaoran cheng. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/laecheng/AutoComplete/blob/master/LICENSE) file.
 
 
