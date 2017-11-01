@@ -8,7 +8,7 @@
 
 # Environment
   - An environment to run **C++** on your device.
-  - Follow this [guidance](https://gcc.gnu.org/install/) to install C++ on your operating system.
+  - Follow this [guidance](https://gcc.gnu.org/install/) to install **C++** on your operating system.
 
 # Install
 ```
